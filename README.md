@@ -1,1 +1,15 @@
 # repositorio-prueba-tecnica
+- [ ] Tarea 1
+- [X] Tarea 2
+- [ ] Tarea 3
+- [ ] Tarea 4
+- [ ] Tarea 5
+- [ ] Tarea 6
+- [ ] Tarea 7
+- [ ] Tarea 8
+- [ ] Tarea 9
+- [ ] Tarea 10
+- [ ] Tarea 11
+- [ ] Tarea 12
+- [ ] Tarea 13
+- [ ] Tarea 14
