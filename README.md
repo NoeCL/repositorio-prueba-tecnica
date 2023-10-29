@@ -123,7 +123,7 @@ CREATE TABLE property (
 
 Prueba realizada en postman sin aplicar ningun filtro
 
-![evidencia1](images/Evidence1.png?raw=true "prueba sin filtro")
+![evidencia1](images/Evidence1.PNG?raw=true "prueba sin filtro")
 
 Prueba realizada en postman aplicando la llave "city" con el valor "bogota"
 
